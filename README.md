@@ -1,4 +1,5 @@
 📦 Counting Number of Objects Using Python and OpenCV
+
 This project demonstrates how to detect and count distinct objects in an image using Python, OpenCV, and NumPy. It uses pre-processing techniques like grayscale conversion, Gaussian blur, and Canny edge detection to isolate objects and then counts them using contour detection.
 
 ✅ Features
